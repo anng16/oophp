@@ -1,3 +1,3 @@
-#### Footer col 1
+#### Information
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Denna sida har skapats till kursen OOPHP med ramverket anax.

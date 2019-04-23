@@ -19,10 +19,8 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+I denna kurs ska vi fördjupa oss i programmering inom PHP med fokus på objekt orienterad programmering.
 
-Skriv några kloka ord om kursen?
+Här nedan kan du se den bild jag har valt ut som skall vara representativ för kursen.
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/code.jpg?w=640 caption="Rader med PHP kod på datorskärm."]

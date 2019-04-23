@@ -1,3 +1,5 @@
-#### Footer col 3
+#### Citat
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+"Reflektion kolon, vilken underbart sofistikerad charkdisk du har."  
+  
+-Percy Nilegård till Thord på B&W
